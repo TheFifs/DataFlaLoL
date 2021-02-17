@@ -1,0 +1,12 @@
+body {background-color: black;}
+.menu {font-size: 30px;
+    color: #ffffff;
+    background-color: #c3281e;
+    text-decoration: none;
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: inset;
+
+}
+.menu:hover {background-color: #8B0000;}
+
